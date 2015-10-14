@@ -26,6 +26,6 @@ You can find out how well the neural network is doing by using nn.percentCorrect
 
 Earlier saves of neural networks are stored in theta...txt files.
 The theta files are labeled with what percentage of the test set they got correct.
-For exxample, the neural network saved in tehta92.9.txt had 92.9% accuracy on the test set.
+For example, the neural network saved in tehta92.9.txt had 92.9% accuracy on the test set.
 
 An example of how the neural network can be used can be found in Main.java.
